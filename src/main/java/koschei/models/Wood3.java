@@ -13,6 +13,7 @@ public class Wood3 {
         this.rabbit = rabbit;
     }
 
+
     @Override
     public String toString() {
         return ", на дереве заяц " + rabbit.toString();
